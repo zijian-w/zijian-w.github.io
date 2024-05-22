@@ -3,3 +3,4 @@ languageCode: en-us
 title: Under Construction
 theme: ["PaperMod"]
 publishDir: docs
+contentDir: content
